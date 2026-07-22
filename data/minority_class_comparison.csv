@@ -1,0 +1,7 @@
+Model,Condition,Bots Recall,Bots F1,Web Atk Recall,Web Atk F1
+Decision Tree,Imbalanced,96.0,96.0,100.0,99.67
+Decision Tree,SMOTE,99.33,98.35,98.67,96.1
+Logistic Regression,Imbalanced,40.67,57.55,87.33,89.42
+Logistic Regression,SMOTE,100.0,69.77,92.67,89.39
+Random Forest,Imbalanced,98.67,98.67,98.0,98.99
+Random Forest,SMOTE,100.0,97.72,98.67,99.33
